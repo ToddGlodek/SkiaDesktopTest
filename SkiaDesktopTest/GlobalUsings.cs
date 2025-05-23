@@ -1,0 +1,17 @@
+global using System.Collections.Immutable;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using SkiaDesktopTest.DataContracts;
+global using SkiaDesktopTest.DataContracts.Serialization;
+global using SkiaDesktopTest.Models;
+global using SkiaDesktopTest.Presentation;
+global using SkiaDesktopTest.Services.Caching;
+global using SkiaDesktopTest.Services.Endpoints;
+global using Uno.Extensions.Navigation;
+global using ApplicationExecutionState = Windows.ApplicationModel.Activation.ApplicationExecutionState;
+global using Color = Windows.UI.Color;

@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "SkiaDesktopTest",
+  "display": "standalone",
+  "name": "SkiaDesktopTest",
+  "short_name": "SkiaDesktopTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
